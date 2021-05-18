@@ -1,0 +1,41 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+    color: #2626ad;
+}
+
+.meu-h2 {
+    color: pink;
+    font-size: 40px;
+}
+
+#meuProfessor {
+    font-family: Arial, Helvetica, sans-serif;
+    color: #5f135f;
+}
+
+.btn-aula3 {
+    
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    padding: 10px 20px;
+    border-radius: 2px;
+    background-color: #f5826e;
+    cursor: pointer;
+    display: inline;
+}
+
+.btn-aula3:hover {
+    background-color: #ff6347;
+}
+
+p span{
+    color: darkgreen;
+    font-weight: bold;
+}
+
+div{
+    margin-top: 50px;
+}
